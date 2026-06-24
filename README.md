@@ -24,9 +24,6 @@ Since _Cadence of Hyrule_ is huge, there will always be missing or incomplete el
 
 Branch `master` always points to the latest release of this resource pack.
 
-The latest resource pack release is always compatible with the latest Solarus version.
-
-Resources compatible with older versions or development versions of Solarus live in their own branches.
 
 ## How to use
 
